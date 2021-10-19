@@ -43,7 +43,7 @@ DJANGO_APPS = [
     "django.contrib.staticfiles",
     "rest_framework",
 ]
-LOCAL_APPS = ["users",'base',]
+LOCAL_APPS = ["users",'base','products']
 
 THIRD_PARTY_APPS = [
     "oauth2_provider",
